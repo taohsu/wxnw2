@@ -1,0 +1,67 @@
+{
+  "scripts": [
+    {
+      "Stages": "00",
+      "Sequence": "001",
+      "Timer": "100",
+      "Typeroad": "mud",
+      "Parallex": "0",
+      "Enemyn": 4,
+      "Str": "9:30pm, 21 hours after the catastrophic black out. I am still on my way heading home ... "
+    },
+    {
+      "Stages": "01",
+      "Sequence": "002",
+      "Timer": "100",
+      "Typeroad": "city",
+      "Parallex": "0",
+      "Enemyn": 8,
+      "Str": "There are riots everywhere, the only lights are from the city centre in distance, I'm count on my bow and aword ... "
+    },
+    {
+      "Stages": "02",
+      "Sequence": "003",
+      "Timer": "100",
+      "Typeroad": "city",
+      "Parallex": "1",
+      "Enemyn": 12,
+      "Str": "11:03pm, the Subway line 13 is in front of me. I'm going along the railway, which leads the perfect direction to the south ... "
+    },
+    {
+      "Stages": "03",
+      "Sequence": "004",
+      "Timer": "100",
+      "Typeroad": "subway",
+      "Parallex": "0",
+      "Enemyn": 20,
+      "Str": "I clambed up the railway bridge, the sky is burning, I have to be quick ... "
+    },
+    {
+      "Stages": "04",
+      "Sequence": "005",
+      "Timer": "100",
+      "Typeroad": "subway2",
+      "Parallex": "2",
+      "Enemyn": 8,
+      "Str": "11:58pm, the bridge got attacked by armed rebels, it collapsed under my feet ... "
+    },
+    {
+      "Stages": "05",
+      "Sequence": "006",
+      "Timer": "100",
+      "Typeroad": "mud2",
+      "Parallex": "0",
+      "Enemyn": 1,
+      "Str": "I ran into the darkness to escape from the fires and the enemies. I don't know how long it has been until I hear music coming from the silence ... "
+    },
+    {
+      "Stages": "06",
+      "Sequence": "007",
+      "Timer": "100",
+      "Typeroad": "mud2",
+      "Parallex": "3",
+      "Enemyn": 0,
+      "Str": "A neon banner is in front of me, I can see a door underneath a  dullish light, where I am? "
+    }
+  ]
+}
